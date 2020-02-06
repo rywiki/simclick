@@ -1,5 +1,4 @@
-# simclick
-simulate mouse click event by keyboard.# SimClick 模拟点击
+# SimClick 模拟点击
 
 *一直以来，我总是以键盘控自居，应该是在从前做模型的时候伤到了手指关节开始，成为键盘重度用户的。各种键盘加速工具，主动去记住各种快捷键，力求少用鼠标，甚至去学习了vim和emacs。但是，很多时候，鼠标是无可替代的，尤其是在图形界面大行其道时候。*
 
